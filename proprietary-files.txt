@@ -153,8 +153,8 @@ vendor/lib64/libbt-hidlclient.so|0a0d0ac4e2f4e2e80f4ec488b53c18c96ff08dc6
 vendor/lib64/libbtnv.so|a6793a7b93fa607fcec39da7479566f84ed39aa4
 vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so|9b7ae20ce9d6d2a67fdac94268cec441278cca3d
 
-# Charger - from LA.UM.8.2.r1-07400-sdm660.0
-vendor/bin/hvdcp_opti|2ec1df65507776891f729cf1784579dc703d05cb
+# Charger - from LA.UM.9.2.r1-03500-SDMxx0.0
+vendor/bin/hvdcp_opti|cfee9d4b5c2a842173aefe573344b2d3366f7d17
 
 # CNE - from LA.UM.8.2.r1-06700-sdm660.0
 -vendor/app/CneApp/CneApp.apk|67dd058d8e665a8606c1ff6c3980e844a9bf323e
@@ -1780,33 +1780,33 @@ vendor/lib64/libtime_genoff.so|c8e0bbc9c6b7b5beddba43bc4125a9eaeba7c79f
 vendor/lib/libmmosal.so|e23d6d1b2a035c08ffd7ac72d5241ebff37f0d14
 vendor/lib64/libmmosal.so|e9fdb48163e92b089cea0c397723a8416436c272
 
-# QSEEcom Hal - from LA.UM.9.6.2.r1-04100-89xx.0
-vendor/bin/hw/vendor.qti.hardware.qseecom@1.0-service|9bbbb98699438abb8da802c04b03f9a426e6140c
+# QSEEcom Hal - from LA.UM.9.2.r1-03500-SDMxx0.0
+vendor/bin/hw/vendor.qti.hardware.qseecom@1.0-service|d3d6ed383483747f8bec574adcac1c24ef1ac3a4
 vendor/etc/init/vendor.qti.hardware.qseecom@1.0-service.rc|0f43244d70d5efc1e4f089b926a9dc4f59e53db1
 vendor/lib/vendor.qti.hardware.qseecom@1.0.so|bdb5c822a6e4b8a550e8269ed7cce41ffce98c6c
-vendor/lib/hw/vendor.qti.hardware.qseecom@1.0-impl.so|e29628919fae208784fb28450726abc94d080452
-vendor/lib64/vendor.qti.hardware.qseecom@1.0.so|679c0f228e2f408e9c46c01f5cb44544d3c5452d
-vendor/lib64/hw/vendor.qti.hardware.qseecom@1.0-impl.so|ce93054507fdda761073a1cb8c7ac2b1e9f59669
+vendor/lib/hw/vendor.qti.hardware.qseecom@1.0-impl.so|d22b521c9cd70b63aedaaf9dd7fb69a2a677bd5b
+vendor/lib64/vendor.qti.hardware.qseecom@1.0.so|1b4c92c07ed5ba3f053e10a11f2bc1232ad45375
+vendor/lib64/hw/vendor.qti.hardware.qseecom@1.0-impl.so|1662ff9ec4e65d9b42f41ab2536378904a183627
 
-# RemoteFS - from LA.UM.9.12.r1-10800-SMxx50.0
-vendor/bin/rmt_storage|e451381c339376c1e40b3e6899a8e9a76af5c054
+# RemoteFS - from LA.UM.9.2.r1-03500-SDMxx0.0
+vendor/bin/rmt_storage|5ee4fca4b5d914e28d0f3ce6a0df273fa14227e0
 vendor/etc/init/vendor.qti.rmt_storage.rc|bc212c6353c2ded44ae4d759605fbbe55aa4fa3f
 
-# TFTP - from LA.UM.9.12.r1-10800-SMxx50.0
-vendor/bin/tftp_server|f096a58e024ef6d1ad78da49388c183747d384da
+# TFTP - from LA.UM.9.2.r1-03500-SDMxx0.0
+vendor/bin/tftp_server|1d9d9378b18d24d966d281fdad54678ea38c524c
 vendor/etc/init/vendor.qti.tftp.rc|b27f188cbffba470a4510d50e46ff7c8446c22cb
 
-# TUI - from LA.UM.9.6.2.r1-04100-89xx.0
-vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti|e8d97981d09a4e34907d13bcbbd10f03572c9218
+# TUI - from LA.UM.9.2.r1-03500-SDMxx0.0
+vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti|15378114c18fd1b1c8f9671f656396285ad1de48
 vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc|2cfc563d7e1579374f001c94588fae7835a12ffc
-vendor/lib/vendor.qti.hardware.tui_comm@1.0.so|933eb7026797f3dadad3d10fd69443b11f6563f3
-vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|16baab27397ad493e845515c20ac0c0c063c775d
+vendor/lib/vendor.qti.hardware.tui_comm@1.0.so|16dc51cd62ce73adebdff600e764da481504962f
+vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|4ba792ee3234dca4cd7ebbd7b3f9003c800f51b4
 
-# Universal Bandwidth Compression (UBWC) - from LA.UM.9.6.2.r1-04100-89xx.0
-vendor/lib/libstreamparser.so|5f6d72017b1aa1ae457f6de54b8c101568e22cb8
-vendor/lib/libUBWC.so|30dd8962cb8ab5bf5caeff2f74e3639691c0e6fe
-vendor/lib64/libstreamparser.so|8ccb6cfc28decef9b13b392713fd9e76ceb97764
-vendor/lib64/libUBWC.so|5b9ac103bde9ffc8384f34384d8552e5c44d5725
+# Universal Bandwidth Compression (UBWC) - from LA.UM.9.2.r1-03500-SDMxx0.0
+vendor/lib/libstreamparser.so|6fba09f885f8aad2331f64f5e71f57458a07d770
+vendor/lib/libUBWC.so|831ed4ac0c168534e70f4666735000252fb654b4
+vendor/lib64/libstreamparser.so|aa8ec0d2b9fd4a9c8da62905690383feacc1acf7
+vendor/lib64/libUBWC.so|2d716d9bb1c2d4ba42d3a850085c0d7d3a3b37f4
 
-# Wi-Fi - from LA.UM.8.2.r1-06700-sdm660.0
-vendor/bin/cnss-daemon|d7118e205124e456e6d5ff01efeb8ad931001eb3
+# Wi-Fi - from LA.UM.9.2.r1-03500-SDMxx0.0
+vendor/bin/cnss-daemon|1c63b8f94ba601b76edb0ee2fa1d1880de8d0ea3
